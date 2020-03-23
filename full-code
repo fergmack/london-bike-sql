@@ -1,3 +1,6 @@
+# see training-data-analyst/courses/data-engineering/demos/advanced_sql_functions.md
+
+
 Advanced BigQuery Functions and GIS
 The below example uses data from the BigQuery Public Dataset on London Bike Share which contains millions of bike trips for analysis.
 
